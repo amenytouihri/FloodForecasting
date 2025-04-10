@@ -6,9 +6,6 @@ Floods are the most frequent natural disasters caused by an overflow of water. T
 
 We will train the model using different algorithms such as Markov's chain, RNN, LSTM then we will try to find the most fitted model in our case. 
 
-**Built with**
-
-Here are the frameworks and librairies used: 
-
+Dataset: http://www.agridata.tn/dataset/barrages/resource/ 
 
 This project is a part of CS485 Artificial Intelligence course 
